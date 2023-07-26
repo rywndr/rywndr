@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Tanjungpinang, Indonesia.</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rywndr&layout=compact)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rynwdr&show_icons=true&locale=en&layout=compact" alt="rywndr" />
 
 - 📫 How to reach me **haikhalroy@gmail.com**
 
