@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haikhal</h1>
-<h3 align="center">A passionate fullstack developer from Tanjungpinang, Indonesia.</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia.</h3>
 
 
 
