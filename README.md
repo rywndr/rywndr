@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://twitter.com/kal_xyz"><img src="https://img.shields.io/twitter/follow/kal_xyz?logo=twitter&style=for-the-badge" alt="twitter"/></a>
-  <a href="https://github.com/rywndr"><img src="https://img.shields.io/github/followers/haikhalroy?logo=github&style=for-the-badge" alt="github" /></a>
-  <a href="https://www.linkedin.com/in/haikhal-roywendra-369b5826a//"><img src="https://img.shields.io/badge/-haikhalroy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haikhal-roywendra/" alt="linkedin"/></a>
+  <a href="https://github.com/rywndr"><img src="https://img.shields.io/github/followers/rywndr?logo=github&style=for-the-badge" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/haikhal-roywendra-369b5826a//"><img src="https://img.shields.io/badge/-Haikhal Roywendra-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haikhal-roywendra/" alt="linkedin"/></a>
   <a href="https://medium.com/@haikhalroy"><img src="https://img.shields.io/badge/Medium-haikhalroy-black?style=for-the-badge&logo=medium" alt="medium"/></a>
 </p>
 
