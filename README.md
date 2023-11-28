@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Haikhal 👋</h1>
-<h3 align="center">A front-end developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A full stack developer from Indonesia 🇮🇩</h3>
 
 
 
