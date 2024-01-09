@@ -12,9 +12,7 @@
 
 <h4 align="center">A little bit about me:</h4>
 
-<p align="center">
-  I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing and can't wait to contribute my expertise.
-</p>
+I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing and can't wait to contribute my expertise.
 
 
 - 🔭 I’m currently working on **a Next.js project**
