@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Haikhal 👋</h1>
-<h3 align="center">A full stack developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A full stack developer from Indonesia</h3>
 
 <p align="center">
   <a href="https://twitter.com/kal_xyz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter"/></a>
@@ -10,7 +10,7 @@
 
 #### A little bit about me:
 
-I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing and can't wait to contribute my expertise.
+I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing.
 
 
 - 🔭 I’m currently working on **a Next.js project**
