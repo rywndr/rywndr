@@ -34,7 +34,7 @@ I am an ex Comp & Net Engineering student and currently a Comp Sci student who l
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
 </p>
 
