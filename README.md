@@ -23,7 +23,7 @@ I am an ex Comp & Net Engineering student and currently a Comp Sci student who l
 
 
 <!--Languages and Tools-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Languages and Tools</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,express,react,nextjs,ts,git,mongo,solidity,vscode,postman,tailwind,php,linux&perline=9"  />
 </p>
@@ -37,8 +37,7 @@ I am an ex Comp & Net Engineering student and currently a Comp Sci student who l
 </p>
 <!--QUOTE_CARD-->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/kal_xyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="haikhalroy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/haikhal-roywendra-369b5826a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="haikhal-roywendra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/haikhalroy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="haikhalroy" height="30" width="40" /></a>
+<h2 align="center">Connect With Me:</h2>
+<div align="center">
+  <a href="https://twitter.com/kal_xyz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/haikhal-roywendra-369b5826a/" target="blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedinstyle="margin-bottom: 5px;" /></a>
