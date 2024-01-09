@@ -10,6 +10,12 @@
   <a href="https://medium.com/@haikhalroy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
 </p>
 
+<h4 align="center">A little bit about me:</h4>
+
+<p align="center">
+  I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing and can't wait to contribute my expertise.
+</p>
+
 
 - 🔭 I’m currently working on **a Next.js project**
 
@@ -17,7 +23,7 @@
 
 - 📫 How to reach me: **haikhalroy@gmail.com**
 
-- ⚡ Fun fact: **I love to play monopoly**
+- ⚡ Fun fact: **Alibaba Cloud Certified Dev!**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
