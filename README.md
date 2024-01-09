@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Haikhal 👋</h1>
 <h3 align="center">A full stack developer from Indonesia 🇮🇩</h3>
 
-
-
 <p align="center">
   <a href="https://twitter.com/kal_xyz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter"/></a>
   <a href="https://github.com/rywndr"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
@@ -10,7 +8,7 @@
   <a href="https://medium.com/@haikhalroy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
 </p>
 
-<h4 align="center">A little bit about me:</h4>
+#### A little bit about me:
 
 I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing and can't wait to contribute my expertise.
 
@@ -32,7 +30,6 @@ I am an ex Comp & Net Engineering student and currently a Comp Sci student who l
   <a href="https://nextjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a>
