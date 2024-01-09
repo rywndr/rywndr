@@ -38,6 +38,21 @@ I am an ex Comp & Net Engineering student and currently a Comp Sci student who l
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
 </p>
 
+<!--Languages and Tools-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,express,react,nextjs,ts,git,mongo,solidity,vscode,postman,tailwind,php,linux&perline=10"  />
+</p>
+<br />
+
+<h2 align="center">💡 A Wise man says:</h2>
+
+<!--QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Damian Conway&quote=Documentation is a love letter that you write to your future self.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--QUOTE_CARD-->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kal_xyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="haikhalroy" height="30" width="40" /></a>
