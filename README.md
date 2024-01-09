@@ -25,7 +25,7 @@ I am an ex Comp & Net Engineering student and currently a Comp Sci student who l
 <!--Languages and Tools-->       
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,express,react,nextjs,ts,git,mongo,solidity,vscode,postman,tailwind,php,linux&perline=9"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,react,nextjs,ts,git,mongo,postgres,solidity,vscode,postman,tailwind,php,linux&perline=9"  />
 </p>
 <br />
 
