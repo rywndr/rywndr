@@ -11,10 +11,9 @@
 
 I am an ex Comp & Net Engineering student and currently a Comp Sci student who loves Web Dev (Fullstack), Web3 Dev and Cloud Computing.
 
-
 - 🔭 I’m currently working on **a Next.js project**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Tailwind CSS, and Rust**
+- 🌱 I’m currently learning **Next.js, TypeScript, and Rust**
 
 - 📫 How to reach me: **haikhalroy@gmail.com**
 
