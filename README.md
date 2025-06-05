@@ -3,7 +3,7 @@
 <sup>🚀 Full-Stack Developer | ☁️ Cloud Enthusiast | 🌐 Web3 Explorer</sup> <br/> 
 _<sup>Based in Indonesia 🇮🇩_</sup>
 ___
-I'm a Computer Science student with a background in Computer & Network Engineering, passionate about crafting digital experiences My journey spans across full-stack web development, blockchain technologies, and cloud infrastructure.
+I'm a Computer Science student with a background in Computer & Network Engineering, passionate about crafting digital experiences. My journey spans across full-stack web development, blockchain technologies, and cloud infrastructure.
 
 ```javascript
 // current focus areas
